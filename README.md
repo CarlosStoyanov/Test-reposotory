@@ -1,2 +1,2 @@
 # Test-reposotory
-Using to learn
+Using to learn how to use GitHub
